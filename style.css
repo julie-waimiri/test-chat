@@ -80,11 +80,10 @@ header nav ul li::after{
 
 .home-content{
     position: absolute;
-    top: 10%;
+    top: 23%;
     padding: 50px 20px;
     text-align: left;
     color: aliceblue;
-    box-sizing: border-box;
 }
 
 .home-content h2{
@@ -295,26 +294,12 @@ header nav ul li::after{
         margin: 10px 0;
     }
 
-    .home-content {
-      top: 15%;
-      padding: 20px 15px;
-    }
-
     .home-content h2 {
         font-size: 2rem;
     }
 
     .home-content p {
         font-size: 1rem;
-    }
-
-    .home-content input {
-      width: 90%;
-    }
-
-    .home-content button {
-      width: 90%;
-      font-size: 1rem;
     }
 
     .gallery-container {
