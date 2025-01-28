@@ -79,7 +79,7 @@ header nav ul li::after{
 }
 
 .home-content{
-    padding: 50px;
+    padding: 50px 20px;
     text-align: left;
     color: aliceblue;
 }
