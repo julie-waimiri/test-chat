@@ -297,18 +297,24 @@ header nav ul li::after{
 
     .home-content {
       top: 15%;
-      padding: 30px 15px;
-      text-align: center;
+      padding: 20px 15px;
     }
 
     .home-content h2 {
         font-size: 2rem;
-        text-align: center;
     }
 
     .home-content p {
         font-size: 1rem;
-        margin-bottom: 20px;
+    }
+
+    .home-content input {
+      width: 90%;
+    }
+
+    .home-content button {
+      width: 90%;
+      font-size: 1rem;
     }
 
     .gallery-container {
